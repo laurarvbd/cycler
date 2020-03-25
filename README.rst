@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fcycler.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fcycler?ref=badge_shield)
+
 |PyPi|_ |Supported Python versions|_ |Travis|_ |Codecov|_
 
 .. |PyPi| image:: https://img.shields.io/pypi/v/cycler.svg?style=flat
@@ -16,3 +18,7 @@ cycler: composable cycles
 =========================
 
 Docs: https://matplotlib.org/cycler/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fcycler.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fcycler?ref=badge_large)
